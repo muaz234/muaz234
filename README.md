@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Muaz,  full-stack fullstack developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">I'm Muaz, full-stackoverflow developer 👨‍💻 working since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on PHP projects  
